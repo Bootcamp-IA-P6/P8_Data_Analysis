@@ -94,7 +94,7 @@ El proyecto combina varias áreas y herramientas. Cada miembro del equipo es ref
 
 ## 4. Entregables y enlaces externos
 
-Los entregables principales del proyecto están repartidos en distintos repositorios y soportes. Este README los cataloga y enlaza; **la documentación técnica de cada uno reside en su propia ubicación y bajo la responsabilidad de su autor o autora**.
+Los entregables principales del proyecto están repartidos en distintos repositorios y soportes. Este README los cataloga y enlaza; **la documentación técnica de cada uno reside en su propia ubicación y bajo la supervisión de su autor o autora**.
 
 ### Repositorio del equipo (este repositorio)
 
